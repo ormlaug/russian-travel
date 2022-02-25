@@ -1,0 +1,12 @@
+.intro__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  padding-top: 33px;
+}
+
+@media screen and (max-width: 767px) {
+  .intro__list {
+    padding-top: 34px;
+  }
+}
